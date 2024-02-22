@@ -19,3 +19,9 @@ div.card-header {
 div.card-header p{
     font-weight: bold;
 }
+
+div.card {
+    border-width: 3px;
+    border-color: black;
+    border-radius: 10px;
+}
